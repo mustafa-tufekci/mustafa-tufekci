@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React fundamentals**
+- 🌱 I’m currently learning **.NET Core**
 
 - 💬 Ask me about **anything**
 
